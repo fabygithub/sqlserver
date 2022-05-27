@@ -1,1 +1,19 @@
 notas
+
+CREATE DATABASE miEmpresa1 ON PRIMARY
+(
+	NAME=miEmpresa1, /*Nombre de la base de datos*/
+	FILENAME='c:\Program Files\Microsoft SQL Server\MSSQL11.MSSQLSERVER\MSSQL\DATA\miEmpresa1.mdf',
+	SIZE=40 mb, /*TamaÃ±o de la base de datos*/
+	MAXSIZE=100 mb, /*TamaÃ±o maximo de la base de datos*/
+	FILEGROWTH=5 mb /*Incrementacion de la  base de datos*/
+)
+
+LOG ON
+(
+	NAME=miEMpresa1_log,
+	FILENAME='c:\Program Files\Microsoft SQL Server\MSSQL11.MSSQLSERVER\MSSQL\DATA\miEmpresa1.ldf',
+	SIZE=40 mb,
+	MAXSIZE=100 mb,
+	FILEGROWTH=5 mb
+)
