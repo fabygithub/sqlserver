@@ -1,0 +1,30 @@
+ba
+se de datos
+
+Error cuando importo una base en Excel: SQL Server Import and Export Wizard El proveedor 
+'Microsoft.ACE.OLEDB.12.0' no está registrado en el equipo local.
+
+https://answers.microsoft.com/es-es/msoffice/forum/all/error-cuando-importo-una-base-en-excel-sql-server/fab6c3b8-9be1-41c1-87d2-849662120441
+
+asesor independiente
+
+https://social.msdn.microsoft.com/Forums/es-ES/a38d7606-c73b-44fa-b86d-0d56490bc590/el-proveedor-microsoftaceoledb120-no-est-registrado-en-el-equipo-local-systemdata?forum=sqlserveres
+
+El proveedor ACE se puede descargar en 32 y en 64 bits, pero solo uno de ellos se puede instalar.
+manipulando el Registro de Windows
+
+Y eso es molesto, porque SSMS es una aplicación de 32 bits y busca la versión de 32 bits del proveedor ACE
+busca la versión de 64 bits del proveedor ACE
+
+subsanar este problema
+Microsoft.ACE.OLEDB.12.0
+
+Microsoft Access Database Engine 2010 Redistributable
+
+
+
+
+
+
+
+
