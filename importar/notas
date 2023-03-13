@@ -23,6 +23,67 @@ Microsoft Access Database Engine 2010 Redistributable
 https://www.aspsnippets.com/Articles/Download-MicrosoftACEOLEDB120-provider-for-32bit-and-64bit.aspx
 
 
+the server can not found sql server
+
+sql server browser deshabilitado
+no se puede iniciar
+
+sql server mssqlss  no iniciado
+
+import database :
+database
+tasks
+import
+
+oledb 16.0 is not registered
+sql server 2022 
+access database engine
+
+https://answers.microsoft.com/en-us/msoffice/forum/all/the-microsoftaceoledb160-provider-is-not/45dd60f3-69f5-4e9c-ba8d-2b2bcc4bc78c
+
+This error indicates that the Microsoft Access Database 
+Engine 2016 is not installed, download and install the 
+Microsoft Access Database Engine from this link should fix this problem.
+
+https://www.microsoft.com/en-us/download/details.aspx?id=54920
+
+revisar cual version se necesita la 2010 o la 2016
+
+Thanks Robinson, I have same problem and have Access installed 
+already as part of Office 365, and it's still not working
+
+Anybody knows if anything else could be changed 
+Save your excel file to 97-2003 then the import will work
+
+guardar como libro de excel 97-2003
+se debia a un problema con la version del excel
+porque access database ya estaba instalado
+
+no se ha inicializado la propiedad connection string
+sql server connection string system data
+
+sql server import excel
+
+buscar en inicio
+sql server 2014 import and export data (64 bit)
+
+microsoft ole db for sql server
+server name DESKTOP-704IVQL
+window authentication
+
+select the database
+donde se van a agregar los datos
+
+copy data -next -finish
+
+file - new -  database query
+
+select * from [dbo].[olap$]
+
+los errores los marca en rojo
+
+
+
 
 
 
